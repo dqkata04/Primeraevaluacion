@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <ctype.h>
+
 
 //Codigo por Marlon Daniel Joya Torres
 //Primera evaluacion del curso
